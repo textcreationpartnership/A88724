@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last farewel to the rebellious sect called the Fifth Monarchy-men on Wednesday January the ninth. Together with their treacherous proceedings, attempts, combats, and skirmishes at VVoodstreet, Bishopsgate-street, Leaden-Hall, and several other places. With the total dispersing, defeating, and utter ruining of that damnable and seditious sect in general.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88724</idno><idno type="EEBO-CITATION">99867011</idno>
+  <idno type="VID">168999</idno>
+  <idno type="EEBO-PROQUEST">2240917313</idno>
+  
+            <idno type="STC">Wing L485</idno>
+            <idno type="STC">Thomason E1055_12</idno>
+            <idno type="STC">ESTC R208004</idno>
+            <idno type="PROQUEST">99867011</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867011e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168999)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1055[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last farewel to the rebellious sect called the Fifth Monarchy-men on Wednesday January the ninth. Together with their treacherous proceedings, attempts, combats, and skirmishes at VVoodstreet, Bishopsgate-street, Leaden-Hall, and several other places. With the total dispersing, defeating, and utter ruining of that damnable and seditious sect in general.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 16"; the second 1 in the imprint date has been altered to read "0".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fifth Monarchy Men --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168999:1"/>
+            <p>The last farewel to the Rebellious Sect Called the Fifth MONARCHY-MEN on Wednesday <hi>January</hi> the Ninth.</p>
+            <p>Together with their Treacherous Proceedings, Attempts, Combats, and Skirmishes at <hi>VVoodstreet, Bishopsgate-street, Leaden-Hall,</hi> and several other places.</p>
+            <p>With the total Dispersing, De<g ref="char:EOLhyphen"/>feating, and utter Ruining of that Damnable and Seditious Sect in General.</p>
+            <figure>
+               <figDesc>depiction of a Tudor rose surmounted by a crown</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed in the year, 1661. <add>Jan: 16</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168999:2"/>
+            <pb n="3" facs="tcp:168999:2"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of St. Andrew with his cross(?)</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Christ as the Good Shepherd</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of St. Christopher carrying the Christ child(?)</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of the disembowelment of an English martyr(?)</figDesc>
+               </figure>
+            </head>
+            <head>The last farewel to the rebellious Crew of the Fifth MONARCHY-MEN</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ow thou brave Renowned City of <hi>London,</hi> and Famous Heroical <hi>Citi<g ref="char:EOLhyphen"/>zens,</hi> whose late and Loyal Actions hath made thy Glory shine even to the Honour of the Kingdom, and a Mirror to the world, whereby future Generations will call thee blessed.</p>
+            <p>So now most Grave, Worthy, and Prudent Senators, I cannot forbear but to declare and make known unto the world, the most inveterate spleen, and deadly poy<g ref="char:EOLhyphen"/>son which lyeth in the hearts of some Ill-br<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, Tre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cher<g ref="char:EOLhyphen"/>ous, Tyrannical Phanatticks, who seek to make a breach in our <hi>True Catholique and Apostolique Religion,</hi> and root up the Foundation of our Fundamental Laws, both <hi>Spiritual</hi> and <hi>Temporal,</hi> to the Ruine and De<g ref="char:EOLhyphen"/>struction both of King and Kingdom.</p>
+            <pb n="4" facs="tcp:168999:3"/>
+            <p>And to bring on their divellish Design, these Hanibal Caterpillars, as Fifth Monarchy-men, and Anabaptists, but in general, Phanaticks, for a long time did contri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, abet<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and invent, the most horrid, treacherous, and bar<g ref="char:EOLhyphen"/>b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rous Insurection that ever was heard of since the Crea<g ref="char:EOLhyphen"/>tion: For on the sixth of <hi>January</hi> these Rebells gather<g ref="char:EOLhyphen"/>ed to a head, and at twelve a clock at night m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de their enterprise at the Cathedral Church of St. <hi>Pauls,</hi> but having not th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir assistance according to expectation, they were routed and dispersed, most part of them taken pri<g ref="char:EOLhyphen"/>soners; but so audacious where these traytors in pursuit of their ambition, were not a whit dismiad at this their first ill success: but like wolves of undainted spirits made a second attempt, <hi>Ian.</hi> the ninth, and divided themselves into three parties, they were neer upon the number of four hundred, where I shall d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re their beginning and ending, with all their proce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dings in full and ge<g ref="char:EOLhyphen"/>neral.</p>
+            <p>
+               <hi>Ianuary</hi> the ninth the Seditious fifth Monarchy-men at six a clock in the morning broke forth in furious and publick hostility, with a party from <hi>Bishopsgate,</hi> and an<g ref="char:EOLhyphen"/>other party from <hi>London-bridge,</hi> and very excellent well accoutred both for Musquets, Blunderbusses, Carbines, and Halbirds, with buff-coats, and Helmets, both back and brest being thus compleatly Armed, they marched in Order, Ranck, and Fil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e down <hi>Canon-street,</hi> cleering the way as they went; they were led by Collonel <hi>Okey</hi> who was seen by a Gentleman tht knew him very well, so they came up <hi>Watling street</hi> and thorow <hi>Soper-lane</hi> into <hi>Cheap<g ref="char:EOLunhyphen"/>side,</hi> saying to some of their gang, make haste, make hast the day is our own: so being come into <hi>Cheapside</hi> they were met by <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Company of the Train Bands who encoun<g ref="char:EOLhyphen"/>tred with them, and gave them the first Charge, and beat them into <hi>Woodstreet</hi> where the Rebels did sturdily in<g ref="char:EOLhyphen"/>grapple with them, and very stoutly maintained the pas<g ref="char:EOLhyphen"/>sage for above a quarter of an hour, with bold, impudent and audacious spirits, fiercely shooting one at another, but
+<pb n="5" facs="tcp:168999:3"/> then came one Major <hi>Cox</hi> with another Company, and gave them a volley, by which as 'tis related foure of the Rebels dropt, observe, these were but eight that maintain<g ref="char:EOLhyphen"/>ed the passage, their main body lay nearer the lower end; but in this conflict there was a Gentleman in Major <hi>Cox</hi> his Company that knew Collonel <hi>Okey,</hi> and said, well Collonel <hi>Okey</hi> we shall know you, where immediately up<g ref="char:EOLhyphen"/>on the word speaking he was shot through the body, it is reported his name was <hi>Snow</hi> a Chandler living at <hi>Dowgate</hi> he was put in the Church for the present, after brought in a chair home; the Rebels that were kil'd were carryed away upon mens shoulders, the residue fled up <hi>Cateaten street,</hi> where they had another party of their own met with them Armed with Firelocks and Holberds, and Co<g ref="char:EOLhyphen"/>ats of male on, and passed up <hi>Frogmorten-street,</hi> intending to take <hi>Leaden Hall</hi> for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Refuge, but at the upper end of <hi>Bishopsgate</hi> street neer the Standard in <hi>Cornwell</hi> they had another bloody conflict, for there they met with another Company of the Train-bands, and about six or eight files of the Duke of <hi>Albermarles</hi> R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giment of foot, who had not the pati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce to stand at distance with them above two vollies▪ but furiously and valiantly ran in upon them, and knockt them down with the butt end of their Mus<g ref="char:EOLhyphen"/>quets, yet the Rebells stood it out with such bold impu<g ref="char:EOLhyphen"/>dent spirits, that they repulc'd them again, and had them at a distance, then the Trained Bands Charged, and or<g ref="char:EOLhyphen"/>dered and gave them another volley whereby five of the Traytors dropt, and one shot thorow the thigh, whom they would willingly have brought off but the valiant Citiz<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns and warlike Souldiers ply'd them so hard with powd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and bullet that they were fain to leave him and quit the place, and ran down <hi>Leaden Hall</hi> and <hi>Gracious</hi> street, so they totally routed that party, none of the Train band men hurt, as we can h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar of, but they clos<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly pur<g ref="char:EOLhyphen"/>sued them and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook three at that time and stript them of their B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff-coats and shining Helmets, and disposed of them to the Souldiers, and conveyed them to <hi>Newgate,</hi> and the rest of their scattering gang.</p>
+            <pb n="6" facs="tcp:168999:4"/>
+            <p>Our most famous and ever renowned Lord Mayor with a company of the City horse, himself in his buff Coat, and his sword drawn in his hand, where he met with a party of those Seditious fellows and charged through them very valiantly, but did no great execution in regard of their Coats o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Male, yet he left them not off till he took some of them, and defeated all the rest; by which time the <hi>Middlesex</hi> Regiment and all the Oxilliaries were toge<g ref="char:EOLhyphen"/>ther in a ready posture, and the Trained bands stood in a publick brave Hostility, which did shew a great deal of Loyalty, and true Allegiance to their Prince, whereby they have got such a mark of honour, that will remain upon their posterities unto futune generations.</p>
+            <p>The City Gates were all shut up, and no passing in nor out from seven a clock till ten, likewise all the Shop doors and windows were shut up and kept closse all day long▪ and the Trained bands wheeling and traversing up and down the streets, and making search over all the Ci<g ref="char:EOLhyphen"/>ty both for Arms, Armer, and Traytors, which for Arms they found a considerable number, and in <hi>Bishopsgate-street</hi> in one house they found a whole Cart load of Ar<g ref="char:EOLhyphen"/>mer, Helmets, and both back and brest. At <hi>Bishopsgate</hi> there was a Skirmish, and a Captain of the <hi>Militia</hi> slain, and one boy neer <hi>Bedlam</hi> by a party seen to come from <hi>Moone-fields,</hi> but not long they had been there, but my good Lord Mayor came and saluted them with Powder and and bullet, and they stood against him with such audacious impudence, that even rebellion itself might stand amaz<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d at it: yet nevertheless through the Hero<g ref="char:EOLhyphen"/>ical courage and brave behaviour of our prudent, famous and ever Renouned Lord Mayor, these merciless and cru<g ref="char:EOLhyphen"/>ell Tygers were soon dispersed and totally rounted, some fled, and some taken to the number of six.</p>
+            <p>
+               <hi>In Billiter-lane</hi> there came a party to one <hi>Gibbs</hi> his house a Joyner and bad him come away, come away for the day is our own, this <hi>Gibs</hi> was amongst them, but he escaped and came home, which immediately the Trained bands search'd
+<pb n="7" facs="tcp:168999:4"/> for him, and took both him and his wife and some others in the house, and carried them to <hi>Newgate.</hi>
+            </p>
+            <p>About ten of the clock strong Guards were placed about <hi>White-hall,</hi> which being done, Prince <hi>James</hi> Duke of <hi>York</hi> mounted and prepared for the City, his Attendance was the Life guard to the number of seven hundred gallants substantial Horse two silver Trumpets, and twelve noble Gentlemen rid before him bare headed, the Duke of <hi>Rich<g ref="char:EOLhyphen"/>mond</hi> rid of the right hand of him, and the Duke of <hi>Alber<g ref="char:EOLhyphen"/>marle</hi> rid on the left, the Duke of <hi>Buckingham</hi> and the Lord <hi>Fairfax</hi> rid n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt after him, the Earle of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>outhampton</hi> the Earle of <hi>Norwitch,</hi> the Lord <hi>Herbert,</hi> and the Lord <hi>Ger<g ref="char:EOLhyphen"/>rard,</hi> with the Earl of <hi>Coventry,</hi> five hundred Knights and Gentlemen besides, bravely Armed with Swo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Pistols, and Carbines, who came in voluntary with their Loyal assistance if occasion had required.</p>
+            <p>In <hi>Cheapside</hi> the Lord Mayor with a Troop of the City Horse saluted the Prince with all his Nobility; the Prince returned him thanks, and all the brave Citizens for their Loyal and faithful fidelity to their Soveraign, and told them he did much Congratulate to see how unanimously they did stand up both for their Laws and Lib rties King and Kingdom: The business being over, the Prince with all his Nobility and Life-guard departed and so returned back to <hi>Whitehall:</hi> The City Trained Band continued searching Phannatick parties: In the Afternoon there was a woman in <hi>Cheapside</hi> speaking most horrible and ma<g ref="char:EOLhyphen"/>licious speeches against his Majesty and people, for which high piece of impudence she was cruelly maul'd with stones in th street by the Boyes. Their great and anci<g ref="char:EOLhyphen"/>ent Meetinghouse, the Bull and mouth at <hi>Aldersgate</hi> was searcht and they found there a Chest of money which was layd up for a reserve to maintain their mischievous, horrid and detestable villany; the people of the Inne were likewise carried to <hi>Newgate:</hi> The unparalleld Tray<g ref="char:EOLhyphen"/>tor and merciless Tyrant that murdered the Const<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble in <hi>Chizel street</hi> was taken amongst the rest of of these Sediti<g ref="char:EOLhyphen"/>ous Rebels and carried to <hi>Newgate.</hi> There was lik<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wise
+<pb n="8" facs="tcp:168999:5"/> a Lady who thought to make her self a person of wisdom, like an im<g ref="char:EOLhyphen"/>Pudent fool spake treasonable words against King and people, was thrown into the Counter for her good manners also: The conclusion of the dayes businesse was thus ended, the Trained Bands bestir'd themselves still in searching, and in George Alley in Shoo-lane was found in the house of Tho. Bayly, the late Kings Saddle and his sword with his name on it, with a great deale of his rich Tapestry Hangings, and himself secured in Dorset house: One Broughton an arch Tray<g ref="char:EOLhyphen"/>tor and son to Broughton that was Clerk to the pretended High-Court of Iustice, he was secured in Overtons late lodging, and brougt to Dorset house. Several other prisoners were secured in Legg-ally, Newstreet, White-friers, and other places to the number of twenty seven, as also one Bare-bones a prime instigator and four or five more in his house, and numourous more in other places, and Arms almost in every house, this being the Barbarest insurrection that ever hapned in any Kings Government, and as it was the Greatest peece of impudence and grandest plot of treachery, lets leave them to the slash of the greatest stripes of punishments that due for the reward of such unpa<g ref="char:EOLhyphen"/>ralleld, rebellious and notorious Traytors, that after ages may heare the story, and lay it as a pattern or sad spectacle before their eyes to take warning by: Let this satisfie to give the Kingdom content of this days business, for this is the whole Relation in general, So God preserve our gracious King from his enemies.</p>
+            <closer>
+               <dateline>
+                  <date>Ian. 9. 1661.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
